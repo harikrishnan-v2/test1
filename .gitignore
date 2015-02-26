@@ -15,3 +15,10 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Other files
+.idea
+.ruby-version
+.ruby-gemset
+.v2gpti
+faraday.log
